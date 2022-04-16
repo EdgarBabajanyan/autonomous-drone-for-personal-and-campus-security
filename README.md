@@ -1,7 +1,7 @@
 # Project RedgarQuadcopter: Autonomous Drone for Personal and Campus Security
 This is my 11th Grade main project and I plan to continue revising and creating iterations of the drone. The drone shows promise and is still very early stage.
 
-Specifics right now: Autonomous flight with following of a user for 12 minutes, a 3 foot by 6 foot flight distance from the user, and 
+Specifics right now: Autonomous flight with following of a user for 12 minutes, a 3 foot by 6 foot flight distance from the user, and a 60% accuracy in determining the user's posture and safety.
 
    
 
