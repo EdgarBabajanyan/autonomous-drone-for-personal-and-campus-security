@@ -6,6 +6,8 @@ Specifics right now: Autonomous flight with following of a user for 12 minutes, 
 Specs: Raspberry Pi 4, Python's OpenCV and Firebase for communications with Phone, Linux, CC3D Flight controller, Librepilot Firmware and a 3500 mAh LiPo battery.
 
 Code is not made opensource as I may want to commercialize this product in the future!
+
+I participated in the CT-Stem Science Fair and spoke with like-minded researchers at the University of Bridgeport.
    
 
 ![Poster for SRP Project_ R Quadcopter (2)](https://user-images.githubusercontent.com/50426742/163661082-b77c7119-71cf-416e-9c0c-c374f90bad9b.png)
