@@ -16,3 +16,4 @@ I participated in the CT-Stem Science Fair and spoke with like-minded researcher
 ![Librepilot demonstrate](https://user-images.githubusercontent.com/50426742/163661097-f878684b-a13c-4f46-b880-03e2c48a2fcd.PNG)
 
 
+![Wiring Diagram Kind of](https://user-images.githubusercontent.com/50426742/164979990-171b6978-c23f-4ad7-a6bd-e531f1ddcc91.png)
