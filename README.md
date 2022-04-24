@@ -1,11 +1,12 @@
 # Project RedgarQuadcopter: Autonomous Drone for Personal and Campus Security
-This is my 11th Grade main project and I plan to continue revising and creating iterations of the drone. The drone shows promise and is still very early stage.
+
+The mission of this UAV is to secure schools, businesses, and people using Computer Vision technology to determine human behaviour and posture. Using this information, it can track, follow, and understand people and what situation they may be in whether it be violent or just a normal interaction.
 
 Specifics right now: Autonomous flight with following of a user for 12 minutes, a 3 foot by 6 foot flight distance from the user, and a 60% accuracy in determining the user's posture and safety.
 
 Specs: Raspberry Pi 4, Python's OpenCV and Firebase for communications with Phone, Linux, CC3D Flight controller, Librepilot Firmware and a 3500 mAh LiPo battery.
 
-Code is not made opensource as I may want to commercialize this product in the future!
+Code is not made opensource as I want to continue working on this in College!
 
 I participated in the CT-Stem Science Fair and spoke with like-minded researchers at the University of Bridgeport.
    
