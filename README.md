@@ -6,7 +6,7 @@ Specifics right now: Autonomous flight with following of a user for 12 minutes, 
 
 Specs: Raspberry Pi 4, Python's OpenCV and Firebase for communications with Phone, Linux, CC3D Flight controller, Librepilot Firmware and a 3500 mAh LiPo battery.
 
-Code is not made opensource as I want to continue working on this in College!
+Code is not made opensource as I want to continue working on this in the future.
 
 I participated in the CT-Stem Science Fair and spoke with like-minded researchers at the University of Bridgeport.
    
