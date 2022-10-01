@@ -1,4 +1,4 @@
-# Project RedgarQuadcopter: Autonomous Drone for Personal and Campus Security
+# Project RedgarQuadcopter: Autonomous Drone for Personal and Campus Security (Project Eyes in the Sky or EITS)
 
 The mission of this UAV is to secure schools, businesses, and people using Computer Vision technology to determine human behaviour and posture. Using this information, it can track, follow, and understand people and what situation they may be in whether it be violent or just a normal interaction.
 
