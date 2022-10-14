@@ -1,14 +1,24 @@
 # Autonomous Drone for Personal and Campus Security (Project Eyes in the Sky or EITS)
 
+## Iteration I
+
 The mission of this UAV is to secure schools, businesses, and people using Computer Vision technology to determine human behaviour and posture. Using this information, it can track, follow, and understand people and what situation they may be in whether it be violent or just a normal interaction.
 
 Specifics right now: Autonomous flight with following of a user for 12 minutes, a 3 foot by 6 foot flight distance from the user, and a 60% accuracy in determining the user's posture and safety.
 
 Specs: Raspberry Pi 4, Python's OpenCV and Firebase for communications with Phone, Linux, CC3D Flight controller, Librepilot Firmware and a 3500 mAh LiPo battery.
 
-Code is not made opensource as I want to continue working on this in the future.
+Code is not yet opensource! (Needs improvements and retraining for reliability)
 
-I participated in the CT-Stem Science Fair and spoke with like-minded researchers at the University of Bridgeport.
+I participated in the CT-Stem Science Fair and the University of Bridgeport Fair!
+
+## Iteration II
+
+Coming soon... 
+
+Specs: BeagleBone Blue Ardupilot Board, Raspberry Pi 4, Python's OpenCV and Firebase for communications...)
+
+This iteration aims to improve the EITS Drone's accuracy determining situations, reliability in autonomous flight, design + chasis, and battery life!
    
 
 ![Poster for SRP Project_ R Quadcopter (2)](https://user-images.githubusercontent.com/50426742/163661082-b77c7119-71cf-416e-9c0c-c374f90bad9b.png)
