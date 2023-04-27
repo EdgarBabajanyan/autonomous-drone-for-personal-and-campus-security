@@ -16,7 +16,7 @@ I participated in the CT-Stem Science Fair and the University of Bridgeport Fair
 
 Research Paper: https://drive.google.com/file/d/12C28hkdzT6I5kghVinZRSj8KQ8r9yyJ7/view
 
-Specs: BeagleBone Blue Ardupilot Board, Raspberry Pi 4, Python's OpenCV and Firebase for communications...)
+Specs: BeagleBone Blue Ardupilot Board, Raspberry Pi 4, Python's OpenCV and FrSky Transmitter and Receiver for Communication)
 
 This iteration aims to improve the EITS Drone's accuracy determining situations, reliability in autonomous flight, design + chasis, and battery life!
 
