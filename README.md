@@ -14,7 +14,7 @@ I participated in the CT-Stem Science Fair and the University of Bridgeport Fair
 
 ## Iteration II
 
-Research Paper: https://drive.google.com/file/d/12C28hkdzT6I5kghVinZRSj8KQ8r9yyJ7/view
+## Paper: [https://drive.google.com/file/d/12C28hkdzT6I5kghVinZRSj8KQ8r9yyJ7/view](https://drive.google.com/file/d/1dwuDQP4CoNUbmQP9DMtR2Ya-B7ySvU9O/view)
 
 Specs: BeagleBone Blue Ardupilot Board, Raspberry Pi 4, Python's OpenCV and FrSky Transmitter and Receiver for Communication)
 
