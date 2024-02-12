@@ -23,7 +23,15 @@ This iteration aims to improve the EITS Drone's accuracy determining situations,
 ## Photos of Drone, Ground Control Station, and Wiring (Battery Wiring not yet Avaliable!)
 
 ![SRP Poster](https://user-images.githubusercontent.com/50426742/234987750-1479bde7-a95a-48a3-bb14-51e91248bb44.png)
-![Drone (Most uptodate Image Avaliable in Workshop)](https://user-images.githubusercontent.com/50426742/163661087-74c72ea4-dfe9-469e-bb12-50b51c7e6fe2.jpg)
+
+## Iteration I (Raspberry Pi + CC3D Flight Controller)
+
+![Pi Drone](https://user-images.githubusercontent.com/50426742/163661087-74c72ea4-dfe9-469e-bb12-50b51c7e6fe2.jpg)
+
+## Iteration II (Linux based BeagleBone Blue Acting as Flight Controller)
+![BBB Drone](https://github.com/EdgarBabajanyan/autonomous-drone-for-personal-and-campus-security/assets/50426742/8b5527a2-1d3d-4e52-9662-dcf948b2c46b)
+
+
 ![Librepilot demonstrate](https://user-images.githubusercontent.com/50426742/163661097-f878684b-a13c-4f46-b880-03e2c48a2fcd.PNG)
 
 ![Logical Diagram](https://github.com/EdgarBabajanyan/autonomous-drone-for-personal-and-campus-security/assets/50426742/a9302bf2-21c4-4b19-97a2-44c94df3851b)
