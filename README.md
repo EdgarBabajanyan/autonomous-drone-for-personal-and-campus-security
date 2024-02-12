@@ -26,6 +26,4 @@ This iteration aims to improve the EITS Drone's accuracy determining situations,
 ![Drone (Most uptodate Image Avaliable in Workshop)](https://user-images.githubusercontent.com/50426742/163661087-74c72ea4-dfe9-469e-bb12-50b51c7e6fe2.jpg)
 ![Librepilot demonstrate](https://user-images.githubusercontent.com/50426742/163661097-f878684b-a13c-4f46-b880-03e2c48a2fcd.PNG)
 
-
-![Wiring Diagram Kind of![Picture1](https://github.com/EdgarBabajanyan/autonomous-drone-for-personal-and-campus-security/assets/50426742/3c2c581d-b4ac-438b-8930-66cb1f96f3b8)
-]()
+![Logical Diagram](https://github.com/EdgarBabajanyan/autonomous-drone-for-personal-and-campus-security/assets/50426742/a9302bf2-21c4-4b19-97a2-44c94df3851b)
